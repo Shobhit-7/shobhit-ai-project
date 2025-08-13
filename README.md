@@ -28,4 +28,4 @@ The project is built for **learning and experimentation purposes** and can be ex
 ## Installation
 1. Clone the repository:
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Shobhit-7/shobhit-ai-project.git
